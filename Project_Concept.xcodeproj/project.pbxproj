@@ -99,6 +99,10 @@
 		18A93F5324AB1896008DD84F /* Project_Concept */ = {
 			isa = PBXGroup;
 			children = (
+				18A93F8724AB1A96008DD84F /* Manager */,
+				18A93F8624AB1A8D008DD84F /* ModelView */,
+				18A93F8524AB1A86008DD84F /* View */,
+				18A93F8424AB1A7E008DD84F /* Model */,
 				18A93F5424AB1896008DD84F /* AppDelegate.swift */,
 				18A93F5624AB1896008DD84F /* SceneDelegate.swift */,
 				18A93F5824AB1896008DD84F /* ViewController.swift */,
@@ -126,6 +130,34 @@
 				18A93F7824AB18BE008DD84F /* Info.plist */,
 			);
 			path = Project_ConceptUITests;
+			sourceTree = "<group>";
+		};
+		18A93F8424AB1A7E008DD84F /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		18A93F8524AB1A86008DD84F /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		18A93F8624AB1A8D008DD84F /* ModelView */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ModelView;
+			sourceTree = "<group>";
+		};
+		18A93F8724AB1A96008DD84F /* Manager */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Manager;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
